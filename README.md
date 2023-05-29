@@ -1,2 +1,2 @@
 # custom-data
-custom-data-repo foor personal purpose
+custom-data-repo for personal purpose
